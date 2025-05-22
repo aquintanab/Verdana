@@ -29,7 +29,7 @@ def query_data(measurement, fields, range_minutes=60):
     df = query_api.query_data_frame(query)
     if df.empty:
         return pd.DataFrame()
-    df = df.rename(columns={{"_time": "time"}})
+    df = df.rename(columns={"_time": "time"})
     df["time"] = pd.to_datetime(df["time"])
     return df
 
