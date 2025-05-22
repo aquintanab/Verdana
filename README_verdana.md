@@ -63,5 +63,5 @@ verdana/
 ## 🌱 Créditos
 
 Desarrollado para el curso de **Computación Física e IoT**  
-Autor: Miguel Ángel Carrillo  
+Autores: Adriana Quintana, Mateo Alzate y Santiago Cáceres  
 Licencia: MIT
