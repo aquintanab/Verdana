@@ -27,7 +27,7 @@ Inspirada en el bienestar sensorial, Verdana convierte tu planta en un espejo de
 
 1. **Clona este repositorio:**
 ```bash
-git clone https://github.com/tuusuario/verdana.git
+git clone https://github.com/aquintanab/verdana.git
 cd verdana
 ```
 
